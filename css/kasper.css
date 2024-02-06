@@ -468,6 +468,7 @@ header nav .form i {
   flex-wrap: wrap;
   margin-top: 60px;
   justify-content: center;
+  row-gap: 50px;
 }
 
 .portfolio .imgs-container .box {
@@ -630,6 +631,7 @@ header nav .form i {
   color: white;
   display: flex;
   flex-wrap: wrap;
+  row-gap: 10px;
 }
 
 .stats .container .box {
@@ -950,6 +952,7 @@ q::after {
 }
 
 .price .contact {
+  padding: 0;
   text-align: center;
 }
 
